@@ -1,6 +1,6 @@
 class Dado {
-    constructor(){
-        this.face = 0;
+    constructor(face){
+        this.face = face;
 
     }
     Rolar(){
@@ -11,7 +11,5 @@ class Dado {
     }
     
 }
-var dado = new Dado();
-
-dado.face = 6;
+var dado = new Dado(6);
 console.log(dado.Rolar());

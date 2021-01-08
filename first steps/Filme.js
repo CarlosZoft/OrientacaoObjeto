@@ -24,6 +24,15 @@ class Filme {
 
 }
 
-var vingadores = new filme ();
-var logan = new filme();
-var harryPotter = new filme();
+var vingadores = new Filme();
+
+console.log("titulo = " + vingadores.titulo)
+
+var logan = new Filme();
+
+console.log("Ano = " + logan.ano)
+var harryPotter = new Filme();
+
+harryPotter.Pausar();
+harryPotter.Avancar();
+harryPotter.Fechar();

@@ -20,13 +20,18 @@ class Filme {
      Fechar(){
          console.log("Fechando")
      }
-
+     Ficha(){
+        console.log("Titulo: " + this.titulo)
+        console.log("Ano de lançamento: " + this.ano)
+        console.log("Genero : " + this.genero)
+        console.log("Diretor : " + this.diretor)
+        console.log("duracao :" + this.duracao)
+        console.log("Atores :" + this.atores)
+     }
 
 }
 
 var vingadores = new Filme("Vingadores",2014,"ação");
 var logan = new Filme("logan", 2017, "ação");
 var harryPotter = new Filme("Harry potter e a Criança Amaldiçoada", 2016, "ficção/fantasia");
-console.log(vingadores)
-console.log(logan)
-console.log(harryPotter)
+vingadores.Ficha();

@@ -23,3 +23,7 @@ class Filme {
 
 
 }
+
+var vingadores = new filme ();
+var logan = new filme();
+var harryPotter = new filme();

@@ -1,7 +1,7 @@
 class Filme {
      constructor(){
         this.titulo = '';
-        this.ano = '2000';
+        this.ano = 2000;
         this.genero = ' ';
         this.diretor = ' ';
         this.atores = [];

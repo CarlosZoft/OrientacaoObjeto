@@ -7,7 +7,7 @@
   <p>Classificação, organização, reutilização de código e agilidade.</p>
   <hr>
   
-  <h3>Description :</3>
+  <h3>Description :</h3>
   <p> Repository for studies using the object-oriented programming paradigm. </p>
   
   <h3>Goal :</h3>

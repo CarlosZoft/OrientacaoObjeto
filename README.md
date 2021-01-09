@@ -11,6 +11,6 @@
   <p> Repository for studies using the object-oriented programming paradigm. </p>
   
   <h3>Goal :</h3>
-  <p> Classification, organization, code reuse e agility. </p>
+  <p> Classification, organization, code reuse and agility. </p>
   
 
